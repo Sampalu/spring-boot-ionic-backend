@@ -1,0 +1,77 @@
+[33mcommit 0b877e6246111afd2f9d93554db35681db8188f5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Wed Aug 8 02:28:48 2018 -0300
+
+    Item Pedido
+
+[33mcommit b32474a959a04545086aebcda63afc502a90e386[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Wed Aug 8 01:45:23 2018 -0300
+
+    Pedidos
+
+[33mcommit 8b113476c382412d05ef2480709515e9da4d7efe[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Thu Aug 2 02:01:48 2018 -0300
+
+    Endpoint cliente disponivel
+
+[33mcommit a2a93498be2edb849f9b959226ee871f774b0ea0[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Thu Aug 2 01:46:52 2018 -0300
+
+    Cliente e Endereço/Telefone
+
+[33mcommit c0e4f3962f5f4b01d975cab391a30847624272a3[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Thu Aug 2 01:00:59 2018 -0300
+
+    Estado e Cidade
+
+[33mcommit 7456bbb0512571b4b4c45a844613ab63e792f7e1[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Thu Aug 2 00:23:12 2018 -0300
+
+    Ajustes Endpoint
+
+[33mcommit e336002f1c2a973bde8cf672714b122135bc1a03[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Wed Aug 1 23:57:21 2018 -0300
+
+    Produto e associacao muitos para muitos
+
+[33mcommit 4fc433e613f8ab53926ceb7de4cef1418833e6f2[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Wed Aug 1 00:56:44 2018 -0300
+
+    Criando instanciacao
+
+[33mcommit fdc1b7bf2939a490eb47898e5cadef1aa9b684e9[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Wed Aug 1 00:46:02 2018 -0300
+
+    Criando repository e service para categoria
+
+[33mcommit 88e4e9542a0f2b801a84a946a16d29cfa2107378[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Wed Aug 1 00:18:27 2018 -0300
+
+    Banco de dados H2 e criacao de primeira classe
+
+[33mcommit 7ca5118ceaa0692f8001b43371038fb67a53f2aa[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Tue Jul 31 23:39:00 2018 -0300
+
+    Testado a primeira classe de dominio
+
+[33mcommit 7716916213842239e9a7b9532ca5aca3e03ea1e1[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Tue Jul 31 23:18:14 2018 -0300
+
+    Rest testado
+
+[33mcommit 470766b226a3b2236956c6199e34520b41cf08a7[m
+Author: Andre Luis Sampaio <andreluisampaio@gmail.com>
+Date:   Tue Jul 31 22:52:55 2018 -0300
+
+    Projeto criado
